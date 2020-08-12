@@ -1,0 +1,13 @@
+local\AbstractEvent$1.class
+local\Shipped.class
+local\config\kafka\KafkaProcessor.class
+local\OrderApplication.class
+local\Order.class
+local\AbstractEvent.class
+local\OrderRepository.class
+local\OrderController.class
+local\PolicyHandler.class
+local\external\CancellationService.class
+local\OrderCanceled.class
+local\Ordered.class
+local\external\Cancellation.class
